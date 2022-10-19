@@ -29,9 +29,14 @@ Explanation 0
 
 For range T1=1, T2=5 We will look the first 5 movies in the list i.e.
 
-Avengers: Infinity War
-Black Panther
-Deadpool 2
-Bohemian Rhapsody
-A Quiet Place
+1.Avengers: Infinity War
+
+2.Black Panther
+
+3.Deadpool 2
+
+4.Bohemian Rhapsody
+
+5.A Quiet Place
+
 Out of which Avengers: Infinity War has maximum runtime i.e. 149 minutes.
